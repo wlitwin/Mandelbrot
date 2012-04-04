@@ -1,0 +1,5 @@
+Very simple Mandlebrot using C99's complex type.
+
+Requires OpenGL and GLUT
+
+to build type 'make'
